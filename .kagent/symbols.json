@@ -1,0 +1,202 @@
+{
+  "symbols": {
+    "Multi_Scale_Transformer+Additive_angular_margin_net/Func.py": {
+      "ipo_ts": 1780922970849,
+      "edit_count": 1,
+      "last_lines": 146,
+      "last_ts": 1780922970849,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "ac1009c4"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/MST_AAMN.pth": {
+      "ipo_ts": 1780922970873,
+      "edit_count": 1,
+      "last_lines": 1963,
+      "last_ts": 1780922970873,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "87a4837b"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/MST_AAMN_best.pth": {
+      "ipo_ts": 1780922970895,
+      "edit_count": 1,
+      "last_lines": 1956,
+      "last_ts": 1780922970895,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "2b43e57c"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/Func.cpython-39.pyc": {
+      "ipo_ts": 1780922970897,
+      "edit_count": 1,
+      "last_lines": 50,
+      "last_ts": 1780922970897,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "7da769e4"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/additive_angular_margin_loss.cpython-39.pyc": {
+      "ipo_ts": 1780922970899,
+      "edit_count": 1,
+      "last_lines": 42,
+      "last_ts": 1780922970899,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "819d668a"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/classifier.cpython-39.pyc": {
+      "ipo_ts": 1780922970901,
+      "edit_count": 1,
+      "last_lines": 21,
+      "last_ts": 1780922970901,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "a74f5008"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/feature_extractor.cpython-39.pyc": {
+      "ipo_ts": 1780922970903,
+      "edit_count": 1,
+      "last_lines": 61,
+      "last_ts": 1780922970903,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "1479fe05"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/model.cpython-39.pyc": {
+      "ipo_ts": 1780922970905,
+      "edit_count": 1,
+      "last_lines": 19,
+      "last_ts": 1780922970905,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "f399ab16"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/model_save.cpython-39.pyc": {
+      "ipo_ts": 1780922970907,
+      "edit_count": 1,
+      "last_lines": 3,
+      "last_ts": 1780922970907,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "c89e6c16"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/test_model.cpython-39-pytest-7.1.2.pyc": {
+      "ipo_ts": 1780922970910,
+      "edit_count": 1,
+      "last_lines": 7,
+      "last_ts": 1780922970910,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "a67ef340"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/__pycache__/train.cpython-39.pyc": {
+      "ipo_ts": 1780922970912,
+      "edit_count": 1,
+      "last_lines": 24,
+      "last_ts": 1780922970912,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "1aedc10d"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/additive_angular_margin_loss.py": {
+      "ipo_ts": 1780922970914,
+      "edit_count": 1,
+      "last_lines": 131,
+      "last_ts": 1780922970914,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "c7bbde33"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/classifier.py": {
+      "ipo_ts": 1780922970916,
+      "edit_count": 1,
+      "last_lines": 73,
+      "last_ts": 1780922970916,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "fe42405"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/extract_x.csv": {
+      "ipo_ts": 1780922970950,
+      "edit_count": 1,
+      "last_lines": 640,
+      "last_ts": 1780922970950,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "d2aa56e"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/extract_x_f.csv": {
+      "ipo_ts": 1780922970953,
+      "edit_count": 1,
+      "last_lines": 640,
+      "last_ts": 1780922970953,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "a6cca3ff"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/extract_y.csv": {
+      "ipo_ts": 1780922970955,
+      "edit_count": 1,
+      "last_lines": 640,
+      "last_ts": 1780922970955,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "7c78797c"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/feature_extractor.py": {
+      "ipo_ts": 1780922970958,
+      "edit_count": 1,
+      "last_lines": 197,
+      "last_ts": 1780922970958,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "e62238a"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/load_trained_model_para.py": {
+      "ipo_ts": 1780922970960,
+      "edit_count": 1,
+      "last_lines": 124,
+      "last_ts": 1780922970960,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "8d2fc7cd"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/main.py": {
+      "ipo_ts": 1780922970962,
+      "edit_count": 1,
+      "last_lines": 65,
+      "last_ts": 1780922970962,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "5aee9b1c"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/model.py": {
+      "ipo_ts": 1780922970964,
+      "edit_count": 1,
+      "last_lines": 49,
+      "last_ts": 1780922970964,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "683fd2ef"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/model_save.py": {
+      "ipo_ts": 1780922970966,
+      "edit_count": 1,
+      "last_lines": 6,
+      "last_ts": 1780922970966,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "be39b249"
+    },
+    "Multi_Scale_Transformer+Additive_angular_margin_net/train.py": {
+      "ipo_ts": 1780922970969,
+      "edit_count": 1,
+      "last_lines": 92,
+      "last_ts": 1780922970969,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "815c149b"
+    }
+  }
+}

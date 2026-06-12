@@ -1,20 +1,19 @@
-"1D_CNN"对比的一个一维卷积神经网络的对比模型，里面包括了它的对比的一些参数
+"1D_CNN" - A 1D convolutional neural network comparison model, containing some comparison parameters
 
-"article_one_model"也是一维神经网络的模型，但是是修改了一些参数
+"article_one_model" - Also a 1D neural network model, but with some modified parameters
 
-"augmented_convolutional_neural_network"增强卷积神经网络
+"augmented_convolutional_neural_network" - Augmented convolutional neural network
 
-"ComparedExperiment"常规对比的一些机器学习的算法
+"ComparedExperiment" - Some conventional machine learning algorithm comparisons
 
-"data1"所使用的公开数据集
+"data1" - The public dataset used
 
-"dataset_twosources_downsample_sub_1500_max-min","dataset_twosources_downsample_sub_1500_max-min_540","dataset_twosources_downsample_sub_1500_max-min_540","detect_gas_multidimensional_cnn"这些目录为对于刚才的公开数据集的一些预处理版本
+"dataset_twosources_downsample_sub_1500_max-min", "dataset_twosources_downsample_sub_1500_max-min_540", "detect_gas_multidimensional_cnn" - These directories are preprocessing versions of the public dataset
 
-"Multi_Scale_Transformer+Additive_angular_margin_net"论文里面提出的模型架构,"Multi_Scale_Transformer+Additive_angular_margin_net\model.py"为主要模型
+"Multi_Scale_Transformer+Additive_angular_margin_net" - The model architecture proposed in the paper. "Multi_Scale_Transformer+Additive_angular_margin_net\model.py" is the main model
 
-"Multi_Scale_Transformer+CNN"中间切换为讲接神经网络，作为特征提取的一个模型
+"Multi_Scale_Transformer+CNN" - An intermediate model using neural networks for feature extraction
 
+"segment_data_1hz" - Some self-collected datasets, with related folders for data preprocessing or data augmentation
 
-"segment_data_1hz"一些自采集的数据集,后续的一些相关文件夹为数据预处理或者为数据增强的一些处理
-
-lunch from“Multi_Scale_Transformer+Additive_angular_margin_net\train.py”
+Launch from "Multi_Scale_Transformer+Additive_angular_margin_net\train.py"

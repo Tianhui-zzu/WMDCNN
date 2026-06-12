@@ -1,1 +1,20 @@
+"1D_CNN"对比的一个一维卷积神经网络的对比模型，里面包括了它的对比的一些参数
+
+"article_one_model"也是一维神经网络的模型，但是是修改了一些参数
+
+"augmented_convolutional_neural_network"增强卷积神经网络
+
+"ComparedExperiment"常规对比的一些机器学习的算法
+
+"data1"所使用的公开数据集
+
+"dataset_twosources_downsample_sub_1500_max-min","dataset_twosources_downsample_sub_1500_max-min_540","dataset_twosources_downsample_sub_1500_max-min_540","detect_gas_multidimensional_cnn"这些目录为对于刚才的公开数据集的一些预处理版本
+
+"Multi_Scale_Transformer+Additive_angular_margin_net"论文里面提出的模型架构,"Multi_Scale_Transformer+Additive_angular_margin_net\model.py"为主要模型
+
+"Multi_Scale_Transformer+CNN"中间切换为讲接神经网络，作为特征提取的一个模型
+
+
+"segment_data_1hz"一些自采集的数据集,后续的一些相关文件夹为数据预处理或者为数据增强的一些处理
+
 lunch from“Multi_Scale_Transformer+Additive_angular_margin_net\train.py”

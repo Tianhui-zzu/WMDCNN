@@ -206,6 +206,15 @@
       "delisted": false,
       "last_source": "onEdit",
       "last_content_hash": "c1d69c42"
+    },
+    ".gitignore": {
+      "ipo_ts": 1781228764727,
+      "edit_count": 1,
+      "last_lines": 0,
+      "last_ts": 1781228764727,
+      "delisted": false,
+      "last_source": "onEdit",
+      "last_content_hash": "0"
     }
   }
 }
